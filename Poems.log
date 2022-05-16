@@ -1,94 +1,144 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.3)  7 NOV 2018 01:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.16)  16 MAY 2022 18:01
 entering extended mode
-**c:/Users/willa/OneDrive/Documents/LaTex/Poems.tex
-(c:/Users/willa/OneDrive/Documents/LaTex/Poems.tex
-LaTeX2e <2018-04-01> patch level 5
-("C:\Users\willa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\willa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**g:/Documents/Personal/Poems/stitchs-poems/Poems.tex
+(g:/Documents/Personal/Poems/stitchs-poems/Poems.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-05-04> (g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(g:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-) ("C:\Users\willa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\verse\verse.sty"
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
 Package: verse 2009/09/04 v2.4a verse typesetting
-\c@vslineno=\count88
-\c@poemline=\count89
-\c@fvsline=\count90
-\c@modulo@vs=\count91
-\c@verse@envctr=\count92
-\versewidth=\skip43
-\vgap=\skip44
-\vindent=\skip45
-\stanzaskip=\skip46
-\vleftskip=\skip47
-\vrightskip=\skip48
-\c@chrsinstr=\count93
-\beforepoemtitleskip=\skip49
-\afterpoemtitleskip=\skip50
-) (Poems.aux)
+\c@vslineno=\count193
+\c@poemline=\count194
+\c@fvsline=\count195
+\c@modulo@vs=\count196
+\c@verse@envctr=\count197
+\versewidth=\skip49
+\vgap=\skip50
+\vindent=\skip51
+\stanzaskip=\skip52
+\vleftskip=\skip53
+\vrightskip=\skip54
+\c@chrsinstr=\count198
+\beforepoemtitleskip=\skip55
+\afterpoemtitleskip=\skip56
+) (g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
+) (g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (g:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (g:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box50
+) (./Poems.aux)
 \openout1 = `Poems.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ (g:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count266
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen142
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks18
+) (g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (g:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
+(Font)              <12> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
+(Font)              <6> on input line 12.
+<stitch-mark.png, id=1, 770.88pt x 578.16pt>
+File: stitch-mark.png Graphic file (type png)
+<use stitch-mark.png>
+Package pdftex.def Info: stitch-mark.png  used on input line 12.
+(pdftex.def)             Requested size: 345.0pt x 258.74925pt.
  [1
 
-{C:/Users/willa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (Poems.toc 
-[1] [2] [3] [4] [5])
+{g:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./stitch-mark.png>] (./Poems.toc [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11])
 \tf@toc=\write3
 \openout3 = `Poems.toc'.
 
- [6] [7] [8] [9] [10] [11] [12] [13]
-[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
-[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
-[59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73]
-[74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
-[89] [90] [91] [92] [93] (Poems.aux) ) 
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 32--44
+
+ []
+
+[13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 6022.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 6022.
+ [154] [155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] (./Poems.aux) ) 
 Here is how much of TeX's memory you used:
- 356 strings out of 492973
- 4374 string characters out of 3126693
- 65083 words of memory out of 3000000
- 4292 multiletter control sequences out of 15000+200000
- 8860 words of font info for 31 fonts, out of 3000000 for 9000
+ 1483 strings out of 478300
+ 24335 string characters out of 5849123
+ 321331 words of memory out of 5000000
+ 19682 multiletter control sequences out of 15000+600000
+ 476055 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,17p,175b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/willa/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/willa/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/willa
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb>
-<C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb><C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Poems.pdf (94 pages, 205284 bytes).
+ 55i,6n,62p,238b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb><g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Poems.pdf (203 pages, 325248 bytes).
 PDF statistics:
- 328 PDF objects out of 1000 (max. 8388607)
+ 701 PDF objects out of 1000 (max. 8388607)
+ 473 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

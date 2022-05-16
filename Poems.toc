@@ -1,131 +1,282 @@
-\contentsline {part}{Introduction}{6}
-\contentsline {part}{The Testament}{8}
-\contentsline {section}{The Flower of Life - I}{9}
-\contentsline {section}{I'll be me - II}{9}
-\contentsline {section}{Follow - III}{9}
-\contentsline {section}{Far Away - IV}{10}
-\contentsline {section}{Hero - V}{10}
-\contentsline {section}{Closer to my love - VI}{11}
-\contentsline {section}{Loved Ones - VII}{11}
-\contentsline {section}{I'm Sorry. - VIII}{12}
-\contentsline {section}{True Love - IX}{13}
-\contentsline {section}{Why so awkward? - X}{13}
-\contentsline {section}{The Truth - XI}{14}
-\contentsline {section}{Hopes - XII}{14}
-\contentsline {section}{Amnesia - XIII}{15}
-\contentsline {section}{Time - XIV}{16}
-\contentsline {section}{Accept "The Fate" - XV}{16}
-\contentsline {section}{I know I'm right - XVI}{17}
-\contentsline {section}{True Power - XVII}{17}
-\contentsline {section}{You Are My All - XVIII}{18}
-\contentsline {section}{I'm gonna miss ya (Full of fear) - XIX}{18}
-\contentsline {section}{Piercing - XX}{20}
-\contentsline {section}{Me - XXI}{20}
-\contentsline {section}{Palm in Palm - XXII}{21}
-\contentsline {section}{Alcohol - XXIII}{22}
-\contentsline {section}{Darkness - XXIV}{22}
-\contentsline {section}{Past - XXV}{23}
-\contentsline {section}{Bloom - XXVI}{23}
-\contentsline {section}{Hope - XXVII}{24}
-\contentsline {section}{Stitch - XXVIII}{24}
-\contentsline {section}{Stay - XXIX}{25}
-\contentsline {section}{I Am All of Me - XXX}{26}
-\contentsline {section}{Tigerboy - XXXI}{26}
-\contentsline {section}{I Wish for Better Times - XXXII}{27}
-\contentsline {section}{Love You Ever After - XXXIII}{27}
-\contentsline {section}{Fair Maiden - XXXIV}{28}
-\contentsline {section}{Where I'm At - XXXV}{29}
-\contentsline {section}{Knight of the Wind - XXXVI}{29}
-\contentsline {section}{Never Turn Back - XXXVII}{30}
-\contentsline {section}{His World - XXXVIII}{30}
-\contentsline {section}{Me and You - XXXIX}{31}
-\contentsline {section}{Time Heals All Wounds - XL}{31}
-\contentsline {section}{End - XLI}{32}
-\contentsline {section}{Blindfold - XLII}{33}
-\contentsline {section}{Next to Me - XLIII}{33}
-\contentsline {section}{Going My Way - XLIV}{34}
-\contentsline {section}{Change - XLV}{34}
-\contentsline {section}{Learning - XLVI}{35}
-\contentsline {section}{Maybe - XLVII}{35}
-\contentsline {section}{Try - XLVIII}{36}
-\contentsline {section}{The Fear - XLIX}{37}
-\contentsline {section}{Heroic - L}{37}
-\contentsline {section}{Valentine - LI}{38}
-\contentsline {section}{The Same - LII}{39}
-\contentsline {section}{Over - LIII}{40}
-\contentsline {section}{Monkey Kiss - LIV}{40}
-\contentsline {section}{Solid Ice - LV}{41}
-\contentsline {section}{Strike - LVI}{42}
-\contentsline {section}{Without - LVII}{42}
-\contentsline {section}{Great - LVIII}{43}
-\contentsline {section}{Fix - LIX}{43}
-\contentsline {section}{Finish - LX}{44}
-\contentsline {section}{Luna - LXI}{44}
-\contentsline {section}{Saliva - LXII}{45}
-\contentsline {section}{Apocalypse - LXIII}{46}
-\contentsline {section}{The Circle - LXIV}{46}
-\contentsline {section}{Era - LXV}{47}
-\contentsline {section}{Cheating Dream - LXVI}{47}
-\contentsline {section}{The Man - LXVII}{48}
-\contentsline {section}{The Dream - LXVIII}{49}
-\contentsline {section}{Lidophobia - LXIX}{49}
-\contentsline {section}{Stitch; Forever - LXX}{50}
-\contentsline {section}{The Wish - LXXI}{51}
-\contentsline {section}{Memoria - LXXII}{51}
-\contentsline {section}{Through the Fire and Flames - LXXIII}{52}
-\contentsline {section}{Stronger - LXXIV}{52}
-\contentsline {section}{Return - LXXV}{53}
-\contentsline {section}{Live Life - LXXVI}{54}
-\contentsline {section}{Courage or Fear - LXXVII}{55}
-\contentsline {section}{Flower Jack - LXXVIII}{55}
-\contentsline {section}{Eyes - LXXIX}{56}
-\contentsline {section}{One Word - LXXX}{56}
-\contentsline {section}{Save My Fall - LXXXI}{57}
-\contentsline {section}{Shadow to Light - LXXXII}{58}
-\contentsline {section}{All Hail Shadow - LXXXIII}{58}
-\contentsline {section}{Scream - LXXXIV}{59}
-\contentsline {section}{Jealisophobia - LXXXV}{60}
-\contentsline {section}{Amaranth; Forever - LXXXVI}{60}
-\contentsline {section}{Light of Blue - LXXXVII}{62}
-\contentsline {section}{Fire Woman (You're to Blame) - LXXXVIII}{63}
-\contentsline {section}{? - LXXXIX}{64}
-\contentsline {section}{Rain Clouds - XC}{64}
-\contentsline {section}{Burn - XCI}{64}
-\contentsline {section}{Soon - XCII}{65}
-\contentsline {section}{Stetton - XCIII}{65}
-\contentsline {section}{Treasure - XCIV}{66}
-\contentsline {section}{For Without You - XCV}{66}
-\contentsline {section}{Addiction - XCVI}{67}
-\contentsline {section}{Amaranth - XCVII}{68}
-\contentsline {section}{Sakasama Ni - XCVIII}{68}
-\contentsline {section}{All Four - XCIX}{69}
-\contentsline {section}{The Testament - C}{70}
-\contentsline {part}{AfterLife}{72}
-\contentsline {section}{Heaven Seems So Near - CI}{73}
-\contentsline {section}{Here Comes the Sun - CII}{73}
-\contentsline {section}{What Will It Do? - CIII}{73}
-\contentsline {section}{Love - CIV}{74}
-\contentsline {section}{Once Again - CV}{74}
-\contentsline {section}{The Dancing Dead - CVI}{75}
-\contentsline {section}{Hapiness - CVII}{76}
-\contentsline {section}{Basics - CVIII}{77}
-\contentsline {section}{Over the Hills - CIX}{77}
-\contentsline {section}{Third - CX}{78}
-\contentsline {section}{Second - CXI}{79}
-\contentsline {part}{The X}{81}
-\contentsline {section}{Wind - I}{82}
-\contentsline {section}{Memory Tree - II}{82}
-\contentsline {section}{The Rain - III}{83}
-\contentsline {section}{Nuzlocke - IV}{83}
-\contentsline {section}{The Dark (Amnesia II) - V}{84}
-\contentsline {section}{The Librarian Secret - VI}{85}
-\contentsline {section}{The Mountains - VII}{86}
-\contentsline {section}{The Heat - VIII}{86}
-\contentsline {section}{Paths - IX}{87}
-\contentsline {section}{Burning Icicles to tend to the dead - X}{88}
-\contentsline {section}{Dread - XI}{89}
-\contentsline {section}{Steep - XII}{89}
-\contentsline {section}{Destination - XIII}{90}
-\contentsline {section}{Fairly - XIV}{91}
-\contentsline {section}{Hurricane One - XV}{91}
-\contentsline {section}{Afternoon - XVI}{92}
+\contentsline {part}{Introduction}{12}{}%
+\contentsline {part}{The Testament}{14}{}%
+\contentsline {section}{The Flower of Life - I}{15}{}%
+\contentsline {section}{I'll be me - II}{15}{}%
+\contentsline {section}{Follow - III}{15}{}%
+\contentsline {section}{Far Away - IV}{16}{}%
+\contentsline {section}{Hero - V}{16}{}%
+\contentsline {section}{Closer to my love - VI}{17}{}%
+\contentsline {section}{Loved Ones - VII}{17}{}%
+\contentsline {section}{I'm Sorry. - VIII}{18}{}%
+\contentsline {section}{True Love - IX}{19}{}%
+\contentsline {section}{Why so awkward? - X}{19}{}%
+\contentsline {section}{The Truth - XI}{20}{}%
+\contentsline {section}{Hopes - XII}{20}{}%
+\contentsline {section}{Amnesia - XIII}{21}{}%
+\contentsline {section}{Time - XIV}{22}{}%
+\contentsline {section}{Accept "The Fate" - XV}{22}{}%
+\contentsline {section}{I know I'm right - XVI}{23}{}%
+\contentsline {section}{True Power - XVII}{23}{}%
+\contentsline {section}{You Are My All - XVIII}{24}{}%
+\contentsline {section}{I'm gonna miss ya (Full of fear) - XIX}{24}{}%
+\contentsline {section}{Piercing - XX}{26}{}%
+\contentsline {section}{Me - XXI}{26}{}%
+\contentsline {section}{Palm in Palm - XXII}{27}{}%
+\contentsline {section}{Alcohol - XXIII}{28}{}%
+\contentsline {section}{Darkness - XXIV}{28}{}%
+\contentsline {section}{Past - XXV}{29}{}%
+\contentsline {section}{Bloom - XXVI}{29}{}%
+\contentsline {section}{Hope - XXVII}{30}{}%
+\contentsline {section}{Stitch - XXVIII}{30}{}%
+\contentsline {section}{Stay - XXIX}{31}{}%
+\contentsline {section}{I Am All of Me - XXX}{32}{}%
+\contentsline {section}{Tigerboy - XXXI}{32}{}%
+\contentsline {section}{I Wish for Better Times - XXXII}{33}{}%
+\contentsline {section}{Love You Ever After - XXXIII}{33}{}%
+\contentsline {section}{Fair Maiden - XXXIV}{34}{}%
+\contentsline {section}{Where I'm At - XXXV}{35}{}%
+\contentsline {section}{Knight of the Wind - XXXVI}{35}{}%
+\contentsline {section}{Never Turn Back - XXXVII}{36}{}%
+\contentsline {section}{His World - XXXVIII}{36}{}%
+\contentsline {section}{Me and You - XXXIX}{37}{}%
+\contentsline {section}{Time Heals All Wounds - XL}{37}{}%
+\contentsline {section}{End - XLI}{38}{}%
+\contentsline {section}{Blindfold - XLII}{39}{}%
+\contentsline {section}{Next to Me - XLIII}{39}{}%
+\contentsline {section}{Going My Way - XLIV}{40}{}%
+\contentsline {section}{Change - XLV}{40}{}%
+\contentsline {section}{Learning - XLVI}{41}{}%
+\contentsline {section}{Maybe - XLVII}{41}{}%
+\contentsline {section}{Try - XLVIII}{42}{}%
+\contentsline {section}{The Fear - XLIX}{43}{}%
+\contentsline {section}{Heroic - L}{43}{}%
+\contentsline {section}{Valentine - LI}{44}{}%
+\contentsline {section}{The Same - LII}{45}{}%
+\contentsline {section}{Over - LIII}{46}{}%
+\contentsline {section}{Monkey Kiss - LIV}{46}{}%
+\contentsline {section}{Solid Ice - LV}{47}{}%
+\contentsline {section}{Strike - LVI}{48}{}%
+\contentsline {section}{Without - LVII}{48}{}%
+\contentsline {section}{Great - LVIII}{49}{}%
+\contentsline {section}{Fix - LIX}{49}{}%
+\contentsline {section}{Finish - LX}{50}{}%
+\contentsline {section}{Luna - LXI}{50}{}%
+\contentsline {section}{Saliva - LXII}{51}{}%
+\contentsline {section}{Apocalypse - LXIII}{52}{}%
+\contentsline {section}{The Circle - LXIV}{52}{}%
+\contentsline {section}{Era - LXV}{53}{}%
+\contentsline {section}{Cheating Dream - LXVI}{53}{}%
+\contentsline {section}{The Man - LXVII}{54}{}%
+\contentsline {section}{The Dream - LXVIII}{55}{}%
+\contentsline {section}{Lidophobia - LXIX}{55}{}%
+\contentsline {section}{Stitch; Forever - LXX}{56}{}%
+\contentsline {section}{The Wish - LXXI}{57}{}%
+\contentsline {section}{Memoria - LXXII}{57}{}%
+\contentsline {section}{Through the Fire and Flames - LXXIII}{58}{}%
+\contentsline {section}{Stronger - LXXIV}{58}{}%
+\contentsline {section}{Return - LXXV}{59}{}%
+\contentsline {section}{Live Life - LXXVI}{60}{}%
+\contentsline {section}{Courage or Fear - LXXVII}{61}{}%
+\contentsline {section}{Flower Jack - LXXVIII}{61}{}%
+\contentsline {section}{Eyes - LXXIX}{62}{}%
+\contentsline {section}{One Word - LXXX}{62}{}%
+\contentsline {section}{Save My Fall - LXXXI}{63}{}%
+\contentsline {section}{Shadow to Light - LXXXII}{64}{}%
+\contentsline {section}{All Hail Shadow - LXXXIII}{64}{}%
+\contentsline {section}{Scream - LXXXIV}{65}{}%
+\contentsline {section}{Jealisophobia - LXXXV}{66}{}%
+\contentsline {section}{Amaranth; Forever - LXXXVI}{66}{}%
+\contentsline {section}{Light of Blue - LXXXVII}{68}{}%
+\contentsline {section}{Fire Woman (You're to Blame) - LXXXVIII}{69}{}%
+\contentsline {section}{? - LXXXIX}{70}{}%
+\contentsline {section}{Rain Clouds - XC}{70}{}%
+\contentsline {section}{Burn - XCI}{70}{}%
+\contentsline {section}{Soon - XCII}{71}{}%
+\contentsline {section}{Stetton - XCIII}{71}{}%
+\contentsline {section}{Treasure - XCIV}{72}{}%
+\contentsline {section}{For Without You - XCV}{72}{}%
+\contentsline {section}{Addiction - XCVI}{73}{}%
+\contentsline {section}{Amaranth - XCVII}{74}{}%
+\contentsline {section}{Sakasama Ni - XCVIII}{74}{}%
+\contentsline {section}{All Four - XCIX}{75}{}%
+\contentsline {section}{The Testament - C}{76}{}%
+\contentsline {part}{AfterLife}{78}{}%
+\contentsline {section}{Heaven Seems So Near - CI}{79}{}%
+\contentsline {section}{Here Comes the Sun - CII}{79}{}%
+\contentsline {section}{What Will It Do? - CIII}{79}{}%
+\contentsline {section}{Love - CIV}{80}{}%
+\contentsline {section}{Once Again - CV}{80}{}%
+\contentsline {section}{The Dancing Dead - CVI}{81}{}%
+\contentsline {section}{Hapiness - CVII}{82}{}%
+\contentsline {section}{Basics - CVIII}{83}{}%
+\contentsline {section}{Over the Hills - CIX}{83}{}%
+\contentsline {section}{Third - CX}{84}{}%
+\contentsline {section}{Second - CXI}{85}{}%
+\contentsline {part}{The X}{87}{}%
+\contentsline {section}{Wind - I}{88}{}%
+\contentsline {section}{Memory Tree - II}{88}{}%
+\contentsline {section}{The Rain - III}{89}{}%
+\contentsline {section}{Nuzlocke - IV}{89}{}%
+\contentsline {section}{The Dark (Amnesia II) - V}{90}{}%
+\contentsline {section}{The Librarian Secret - VI}{91}{}%
+\contentsline {section}{The Mountains - VII}{92}{}%
+\contentsline {section}{The Heat - VIII}{92}{}%
+\contentsline {section}{Paths - IX}{93}{}%
+\contentsline {section}{Burning Icicles to tend to the dead - X}{94}{}%
+\contentsline {section}{Dread - XI}{95}{}%
+\contentsline {section}{Steep - XII}{95}{}%
+\contentsline {section}{Destination - XIII}{96}{}%
+\contentsline {section}{Fairly - XIV}{97}{}%
+\contentsline {section}{Hurricane One - XV}{97}{}%
+\contentsline {section}{Afternoon - XVI}{98}{}%
+\contentsline {section}{Vision - XVII}{99}{}%
+\contentsline {section}{Always - XVIII}{99}{}%
+\contentsline {section}{Decleration - XIX}{101}{}%
+\contentsline {section}{Belive or Doubt - XX}{101}{}%
+\contentsline {section}{Before - XXI}{102}{}%
+\contentsline {section}{Blue Flower - XXII}{103}{}%
+\contentsline {section}{Too Late - XXIII}{104}{}%
+\contentsline {section}{Blink - XXIV}{105}{}%
+\contentsline {section}{Suffering - XXV}{105}{}%
+\contentsline {section}{Lemonade - XXVI}{107}{}%
+\contentsline {section}{The Violinist - XXVII}{108}{}%
+\contentsline {section}{Her - XXVIII}{109}{}%
+\contentsline {section}{Freedom of Zero - XXIX}{109}{}%
+\contentsline {section}{Limit - XXX}{110}{}%
+\contentsline {section}{Purification - XXXI}{111}{}%
+\contentsline {section}{Inspiration - XXXII}{112}{}%
+\contentsline {section}{Starshine - XXXIII}{112}{}%
+\contentsline {section}{Lifeline - XXXIV}{113}{}%
+\contentsline {section}{The Bullet - XXXV}{113}{}%
+\contentsline {section}{Pride - XXXVI}{114}{}%
+\contentsline {section}{Biking - XXXVII}{115}{}%
+\contentsline {section}{Purple Skies - XXXVIII}{116}{}%
+\contentsline {section}{Not Ever - XXXIX}{117}{}%
+\contentsline {section}{Into the Free - XL}{118}{}%
+\contentsline {section}{Burried Alive - XLI}{118}{}%
+\contentsline {section}{Arrogant Ways: Part 1 - XLII}{119}{}%
+\contentsline {section}{Arrogant Ways: Part 2 - XLIII}{120}{}%
+\contentsline {section}{Reminder - XLIV}{121}{}%
+\contentsline {section}{Disappear - XLV}{122}{}%
+\contentsline {section}{Want To Be - XLVI}{122}{}%
+\contentsline {section}{Fall Before - XLVII}{123}{}%
+\contentsline {section}{Regeneration - XLVIII}{123}{}%
+\contentsline {section}{Seen - XLIX}{124}{}%
+\contentsline {section}{More or Less - L}{124}{}%
+\contentsline {part}{An Afterthought}{126}{}%
+\contentsline {section}{The Full Moon Alchemist - I}{127}{}%
+\contentsline {section}{Bound Heart - II}{127}{}%
+\contentsline {section}{Bedroom - III}{129}{}%
+\contentsline {section}{Facade - IV}{130}{}%
+\contentsline {section}{Read These Words - V}{130}{}%
+\contentsline {section}{Life is Short - VI}{131}{}%
+\contentsline {part}{As the Story Unfolds}{133}{}%
+\contentsline {section}{Flashback - I}{134}{}%
+\contentsline {section}{Undead Beasts - II}{134}{}%
+\contentsline {section}{Goodbye - III}{135}{}%
+\contentsline {section}{Summers Deathbed - IV}{136}{}%
+\contentsline {section}{The Room - V}{137}{}%
+\contentsline {section}{Love is All Around - VI}{137}{}%
+\contentsline {section}{Dance With Me - VII}{139}{}%
+\contentsline {section}{Consumed - VIII}{140}{}%
+\contentsline {section}{The End: Part I (The Resurgence) - IX}{141}{}%
+\contentsline {section}{The End: Part II (The Vices) - X}{141}{}%
+\contentsline {section}{The End: Part III (The Virtues) - XI}{142}{}%
+\contentsline {section}{The End: Part IV (The Chaos and the Calm) - XII}{143}{}%
+\contentsline {section}{The Last Winter - XIII}{144}{}%
+\contentsline {section}{The End: Part V (The Death of a Poet) - XIV}{145}{}%
+\contentsline {part}{Genesis}{147}{}%
+\contentsline {section}{Into the Dark - I}{148}{}%
+\contentsline {section}{Two Youths - II}{148}{}%
+\contentsline {section}{I Feel My Time - III}{148}{}%
+\contentsline {section}{The City: Part I - IV}{149}{}%
+\contentsline {section}{The City: Part II - V}{150}{}%
+\contentsline {section}{I Don't Want to Know - VI}{150}{}%
+\contentsline {section}{The City: Part III - VII}{151}{}%
+\contentsline {section}{My Dreams - VIII}{152}{}%
+\contentsline {section}{My Name - IX}{152}{}%
+\contentsline {part}{X$^2$: Resurgence}{154}{}%
+\contentsline {section}{Relations - I}{155}{}%
+\contentsline {section}{Revelations - II}{155}{}%
+\contentsline {section}{Temptation - III}{156}{}%
+\contentsline {section}{Distation - IV}{156}{}%
+\contentsline {section}{The White Fern - V}{157}{}%
+\contentsline {section}{Justiﬁcation - VI}{157}{}%
+\contentsline {section}{Restoration - VII}{158}{}%
+\contentsline {section}{Sensation - VIII}{158}{}%
+\contentsline {section}{Fluctuation - IX}{159}{}%
+\contentsline {section}{Desperation - X}{159}{}%
+\contentsline {section}{Damnation - XI}{160}{}%
+\contentsline {section}{Superﬂuoulation - XII}{160}{}%
+\contentsline {section}{Nation - XIII}{161}{}%
+\contentsline {section}{Seperation - XIV}{161}{}%
+\contentsline {section}{Stall Me - XV}{162}{}%
+\contentsline {section}{Stagnation - XVI}{162}{}%
+\contentsline {section}{Stuck - XVII}{163}{}%
+\contentsline {section}{Deviation - XVIII}{163}{}%
+\contentsline {section}{I Want to Be - XIX}{164}{}%
+\contentsline {section}{The Youth - XX}{164}{}%
+\contentsline {section}{Dirigation - XXI}{165}{}%
+\contentsline {section}{Astrolation - XXII}{165}{}%
+\contentsline {section}{The Lake of Shadows - XXIII}{166}{}%
+\contentsline {section}{The Forest of Dreams - XXIV}{167}{}%
+\contentsline {section}{The Crimson Weapon - XXV}{167}{}%
+\contentsline {section}{The Last Wish - XXVI}{168}{}%
+\contentsline {section}{The Crown of Sorrow - XXVII}{168}{}%
+\contentsline {section}{Casual - XXVIII}{169}{}%
+\contentsline {section}{Chamber of Starlight - XXIX}{169}{}%
+\contentsline {section}{Desolation - XXX}{170}{}%
+\contentsline {section}{Gratiﬁcation - XXXI}{170}{}%
+\contentsline {section}{Lake Violina - XXXII}{171}{}%
+\contentsline {section}{Untattled Tale - XXXIII}{171}{}%
+\contentsline {section}{The Waltzing Wraiths - XXXIV}{172}{}%
+\contentsline {section}{The Garden of Salvation - XXXV}{173}{}%
+\contentsline {section}{Amaranthian Lullaby - XXXVI}{173}{}%
+\contentsline {section}{The Guise of Epilux - XXXVII}{174}{}%
+\contentsline {section}{Kaleidoscopic - XXXVIII}{175}{}%
+\contentsline {section}{The Spire of Stars - XXXIX}{175}{}%
+\contentsline {section}{Wilt - XL}{176}{}%
+\contentsline {section}{Starlight - XLI}{176}{}%
+\contentsline {section}{Spite of Steena - XLI}{176}{}%
+\contentsline {section}{Deserted Emotions - XLIII}{177}{}%
+\contentsline {section}{Ashes of Laex - XLIV}{177}{}%
+\contentsline {section}{The Inward Lamp - XLV}{178}{}%
+\contentsline {section}{Depression - XLVI}{178}{}%
+\contentsline {section}{Request - XLVII}{179}{}%
+\contentsline {section}{The King of the Clouds - XLVIII}{179}{}%
+\contentsline {section}{Tattoo - XLIX}{179}{}%
+\contentsline {section}{The Mountaintop - L}{180}{}%
+\contentsline {part}{Antumbra}{181}{}%
+\contentsline {section}{Winter Queen - I}{182}{}%
+\contentsline {section}{Antumbra - II}{182}{}%
+\contentsline {section}{Those Times - III}{183}{}%
+\contentsline {section}{Asleep - IV}{183}{}%
+\contentsline {section}{The Piano Knows - V}{183}{}%
+\contentsline {section}{The Downwell - VI}{184}{}%
+\contentsline {section}{Festival of the Lost - VII}{185}{}%
+\contentsline {section}{Pleasureless - VIII}{185}{}%
+\contentsline {section}{Sanctuary - IX}{185}{}%
+\contentsline {section}{Eyes of Tomorrow - X}{186}{}%
+\contentsline {section}{Powerless Misstakes - XI}{187}{}%
+\contentsline {section}{The End: Part VI (The Wicked) - XII}{187}{}%
+\contentsline {section}{The Queen of the Hive - XIII}{188}{}%
+\contentsline {section}{The Factory - XIV}{189}{}%
+\contentsline {section}{Gospel - XV}{189}{}%
+\contentsline {section}{Sorrows Harbour - XVI}{190}{}%
+\contentsline {section}{Corridors of Time - XVII}{190}{}%
+\contentsline {section}{The Third Degree of Sunlight - XVIII}{191}{}%
+\contentsline {section}{Sins of the Past - XIX}{192}{}%
+\contentsline {section}{Touch - XX}{192}{}%
+\contentsline {section}{Memorabilia - XXI}{193}{}%
+\contentsline {part}{Letters to Peresteena}{195}{}%
+\contentsline {section}{My Fears - I}{196}{}%
+\contentsline {section}{My Flaws - II}{196}{}%
+\contentsline {section}{My Actions - III}{197}{}%
+\contentsline {section}{My Mistakes - IV}{197}{}%
+\contentsline {section}{My Finality - V}{198}{}%
+\contentsline {section}{My Individuality - VI}{198}{}%
+\contentsline {section}{My Sacrifice - VII}{199}{}%
+\contentsline {section}{My Secrets - VIII}{199}{}%
+\contentsline {section}{My Intentions - IX}{200}{}%
+\contentsline {section}{My Connections - X}{200}{}%
+\contentsline {part}{The End}{202}{}%

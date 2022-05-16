@@ -1,48 +1,172 @@
-PWD c:/Users/willa/OneDrive/Documents/LaTex
-INPUT C:/Users/willa/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
-INPUT c:/Users/willa/OneDrive/Documents/LaTex/Poems.tex
+PWD g:/Documents/Personal/Poems/stitchs-poems
+INPUT g:/texlive/2022/texmf.cnf
+INPUT g:/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT g:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT g:/Documents/Personal/Poems/stitchs-poems/Poems.tex
 OUTPUT Poems.log
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/tex/latex/verse/verse.sty
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT g:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/verse/verse.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/titlepic/titlepic.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT g:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./Poems.aux
 INPUT Poems.aux
 INPUT Poems.aux
 OUTPUT Poems.aux
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr8.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr6.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi8.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi6.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm
+INPUT g:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT g:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT g:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT g:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT g:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT g:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT g:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT g:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT g:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT ./stitch-mark.png
+INPUT ./stitch-mark.png
+INPUT stitch-mark.png
+INPUT ./stitch-mark.png
 OUTPUT Poems.pdf
-INPUT C:/Users/willa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./stitch-mark.png
+INPUT g:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./Poems.toc
 INPUT Poems.toc
 INPUT Poems.toc
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT Poems.toc
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbxsl10.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbxsl10.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT g:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT Poems.aux
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb
-INPUT C:/Users/willa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb
+INPUT g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT g:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
